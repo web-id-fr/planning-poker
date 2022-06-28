@@ -82,7 +82,7 @@ export const CreateGame = () => {
               <FormControlLabel
                 value={GameType.HoursSevenCards}
                 control={<Radio color="primary" size="small" />}
-                label="Hours (7h) (0, ½, 1 2, 4, 7, 14, 21, 35, 56, 70)"
+                label="Hours (7h) (0, ½, 1, 2, 3, 4, 7, 11, 14, 21, 35, 56, 70)"
               />
               <FormControlLabel
                 value={GameType.Fibonacci}
